@@ -53,7 +53,7 @@ body {
 }
 
 .rk-header {
-  background-color: #fff;
+  background-color: #095af0;
   position: relative;
   z-index: 5;
 }
@@ -234,12 +234,13 @@ body {
 }
 
 .rk-footer__text {
-  color: #787878;
+  color: #ff01f2;
   font-size: .75rem;
   margin-bottom: .875rem;
 }
 .rk-footer__text span {
   font-size: .875rem;
+  color: #095af0;
 }
 
 .rk-footer__copy {
